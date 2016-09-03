@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[So, what do you KNOW?]]></title>
+        <description><![CDATA[So, what do you KNOW?]]></description>
+        <link>https://thegrid.ai/know-projects/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 05:59:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/know-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Josh Friedberg Smith grind during the TM VIP Old Man Contest]]></title>
+            <description><![CDATA[<article><h1>Josh Friedberg Smith grind during the TM VIP Old Man Contest</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd9c61b617b9f46d539f190721d9136a8bcc7f5a.png"></article>]]></description>
+            <link>urn:uuid:44fcca67-4e87-4512-aa15-3c78cb91ba09</link>
+            <guid isPermaLink="false">153e56b5-046c-4d14-a92a-d5e4fdd57bb3</guid>
+            <pubDate>Thu, 01 Sep 2016 05:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Laguna Beach Sunset]]></title>
+            <description><![CDATA[<article><h1>Laguna Beach Sunset</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/589283c2-c5b9-4fb5-b797-f4b4ac198d9f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/know-projects/laguna-beach-sunset/index.html</link>
+            <guid isPermaLink="false">3da36a9a-cb40-4218-9512-e9578319271e</guid>
+            <pubDate>Thu, 01 Sep 2016 05:59:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
