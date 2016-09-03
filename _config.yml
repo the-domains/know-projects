@@ -1,4 +1,4 @@
-layout_spectrum: 0.5558539
+typography_spectrum: 0.09505906
 color:
   saturation: 0.6748286
   lightness: 0.8772376
@@ -10,5 +10,6 @@ color:
     - '#FFFFFD'
     - '#7F170E'
   rhythmicContrast: 0.9541826
-typography_spectrum: 0.09505906
+layout_spectrum: 0.5558539
 name: Know Projects
+title: 'So, what do you KNOW?'
